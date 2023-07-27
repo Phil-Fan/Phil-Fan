@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning CS61A and Algorithms  
   
 
-- ❓ Ask me about anything  
-  
+- ❓ Feel free to contact me ~   
 
 - 😋 Interest: Livehouse and Films  
   
