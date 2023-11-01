@@ -2,7 +2,7 @@
 ### <div align="center">I'm PhilFan,a student of automation, ZJU 2022🤖</div>  
   
 
-- 🌱 I’m currently learning CS61A and Algorithms  
+- 🌱 I’m currently learning C++ and DataStructure 
   
 
 - ❓ Feel free to contact me ~   
