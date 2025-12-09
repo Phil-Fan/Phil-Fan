@@ -14,10 +14,12 @@ I'm PhilFan,a student of ZJU, 2022
 <br/>  
 
 
-## Github Stats  
+## Github Stats
+
 ![](https://komarev.com/ghpvc/?username=Phil-Fan&&style=flat-square)
 
-![](https://github-readme-stats.vercel.app/api?username=Phil-Fan&show_icons=true&count_private=true&hide_border=true)
+![overview](https://github.com/Phil-Fan/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 
+![language](https://github.com/Phil-Fan/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 
