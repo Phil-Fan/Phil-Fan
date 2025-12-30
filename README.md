@@ -3,7 +3,7 @@
 
 I'm PhilFan, ZJU 2022
 
-- 🌱 I’m currently interested in LLM safety & generative model
+- 🌱 I’m currently interested in LLM Safety & AI Infra
 
 - 🌐 I share my learning experience & notes on my [website](https://www.philfan.cn)
 
