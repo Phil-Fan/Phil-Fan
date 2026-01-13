@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 
-I'm PhilFan, ZJU 2022
+I'm PhilFan, ZJU 2022. visit my [homepage](https://philfan.cn)
 
-- 🌱 I’m currently interested in LLM Safety & AI Infra
+- 🌱 I’m currently interested in LLM Safety & AI Infra.
 
-- 🌐 I share my learning experience & notes on my [website](https://www.philfan.cn)
+- 🌐 I share my [learning experience](https://note.philfan.cn), [research notes](https://phd.philfan.cn), [development notes](https://dev.philfan.cn) and [hobbies](https://hobby.philfan.cn) via my personal websites.
 
-- 😋 Interest: Livehouse | Cooking | Running | Developing
+- 😋 Interest: Livehouse | Cooking | Running | Developing. See in [hobbies](https://hobby.philfan.cn)
 
 - 🧑‍💻 In my spare time, I'm learning to be a full-stack developer, check [ZJU Charger](https://charger.philfan.cn) to see my first product.
 
