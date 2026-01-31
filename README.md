@@ -13,7 +13,7 @@ For information, you can visit my [homepage](https://philfan.cn) or [contact me]
   - [research notes](https://phd.philfan.cn)
   - [development notes](https://dev.philfan.cn)
   - [hobbies](https://hobby.philfan.cn)
-- 🪪 [Poco](https://github.com/poco-ai/poco-agent): Your Pocket CoWorker. An intelligent agent harnessing cloud-based Claude Code to realize a Manus-like autonomous experience.
+- 🪪 [Poco](https://github.com/poco-ai/poco-agent): An intelligent agent harnessing cloud-based Claude Code to realize a Manus-like autonomous experience.
 - 🔋 [ZJU-Charger](https://github.com/ZJU-Charger/ZJU-Charger): One click visualization website for electronic motorbikes charger in ZJU.
 - 💎 [Celechron](https://github.com/Celechron/Celechron): One of the most popular utility apps among ZJU students.
 - 😼 [AutoGLM-GUI](https://github.com/suyiiyii/AutoGLM-GUI): an modern GUI controller for mobile use agent AutoGLM.
