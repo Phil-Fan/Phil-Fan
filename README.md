@@ -15,12 +15,15 @@ For information, you can visit my [homepage](https://philfan.cn) or [contact me]
   - [hobbies](https://hobby.philfan.cn)
 - 🪪 [Poco](https://github.com/poco-ai/poco-agent): An intelligent agent harnessing cloud-based Claude Code to realize a Manus-like autonomous experience.
 - 🔋 [ZJU-Charger](https://github.com/ZJU-Charger/ZJU-Charger): One click visualization website for electronic motorbikes charger in ZJU.
-- 💎 [Celechron](https://github.com/Celechron/Celechron): One of the most popular utility apps among ZJU students.
-- 😼 [AutoGLM-GUI](https://github.com/suyiiyii/AutoGLM-GUI): an modern GUI controller for mobile use agent AutoGLM.
 - ⚔️ Collections & Configurations
   - [awesome-zju-tools](https://github.com/Phil-Fan/awesome-zju-tools): awesome list for ZJUers.
   - [dot-files](https://github.com/Phil-Fan/dot-files): my settings governed by chezmoi.
   - [Template](https://github.com/Phil-Fan/Template): Some templates I use, markdown,latex,beamer,powerpoint.
+
+## Contributed To
+
+- 💎 [Celechron](https://github.com/Celechron/Celechron): One of the most popular utility apps among ZJU students.
+- 😼 [AutoGLM-GUI](https://github.com/suyiiyii/AutoGLM-GUI): an modern GUI controller for mobile use agent AutoGLM.
 
 ## Github Activities
 
