@@ -19,6 +19,7 @@ For information, you can visit my [homepage](https://philfan.cn) or [contact me]
   - [awesome-zju-tools](https://github.com/Phil-Fan/awesome-zju-tools): awesome list for ZJUers.
   - [dot-files](https://github.com/Phil-Fan/dot-files): my settings governed by chezmoi.
   - [Template](https://github.com/Phil-Fan/Template): Some templates I use, markdown,latex,beamer,powerpoint.
+  - [xmindify](https://github.com/Phil-Fan/xmindify): A skill that can automatically generate mind maps in different scenarios with respect to .xmind syntax。
 
 ## Contributed To
 
