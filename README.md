@@ -14,6 +14,7 @@ For information, you can visit my [homepage](https://philfan.cn) or [contact me]
   - [development notes](https://dev.philfan.cn)
   - [hobbies](https://hobby.philfan.cn)
 - 🪪 [Poco](https://github.com/poco-ai/poco-agent): An intelligent agent harnessing cloud-based Claude Code to realize a Manus-like autonomous experience.
+- 🔥 [TokenArena](https://github.com/poco-ai/TokenArena): tracking token usage in one place, comparing in community.
 - 🔋 [ZJU-Charger](https://github.com/ZJU-Charger/ZJU-Charger): One click visualization website for electronic motorbikes charger in ZJU.
 - ⚔️ Collections & Configurations
   - [awesome-zju-tools](https://github.com/Phil-Fan/awesome-zju-tools): awesome list for ZJUers.
