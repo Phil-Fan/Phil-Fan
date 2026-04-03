@@ -16,7 +16,7 @@ For information, you can visit my [homepage](https://philfan.cn) or [contact me]
 - 🪪 [Poco](https://github.com/poco-ai/poco-agent): An intelligent agent harnessing cloud-based Claude Code to realize a Manus-like autonomous experience.
 - 🔥 [TokenArena](https://github.com/poco-ai/TokenArena): tracking token usage in one place, comparing in community.
 - 🔋 [ZJU-Charger](https://github.com/ZJU-Charger/ZJU-Charger): One click visualization website for electronic motorbikes charger in ZJU.
-- 📃 [paperd](https://github.com/Phil-Fan/paperd): CLI tool for downloading arXiv papers and preparing for research thinking, with Feishu Webhook notification.
+- 📃 [paperd](https://pypi.org/project/paperd/): CLI tool for downloading arXiv papers and preparing for research thinking, with Feishu Webhook notification.
 - ⚔️ Collections & Configurations
   - [awesome-zju-tools](https://github.com/Phil-Fan/awesome-zju-tools): awesome list for ZJUers.
   - [dot-files](https://github.com/Phil-Fan/dot-files): my settings governed by chezmoi.
