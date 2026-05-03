@@ -13,12 +13,14 @@ For information, you can visit my [homepage](https://philfan.cn) or [contact me]
   - [research notes](https://phd.philfan.cn)
   - [development notes](https://dev.philfan.cn)
   - [hobbies](https://hobby.philfan.cn)
-- 🪪 [Poco](https://github.com/poco-ai/poco-agent): An intelligent agent harnessing cloud-based Claude Code to realize a Manus-like autonomous experience.
+- 🪪 [Poco](https://github.com/poco-ai/poco-agent)(🌟1.3K): An intelligent agent harnessing cloud-based Claude Code to realize a Manus-like autonomous experience.
 - 🔥 [TokenArena](https://github.com/poco-ai/TokenArena): tracking token usage in one place, comparing in community.
-- 🔋 [ZJU-Charger](https://github.com/ZJU-Charger/ZJU-Charger): One click visualization website for electronic motorbikes charger in ZJU.
+- 🔋 [ZJU-Charger](https://github.com/ZJU-Charger/ZJU-Charger): One click visualization website for electronic motorbikes charger in ZJU. Used by over 5K+ ZJUers.
 - 📃 [paperd](https://pypi.org/project/paperd/): CLI tool for downloading arXiv papers and preparing for research thinking, with Feishu Webhook notification.
+- 📷 [truman](https://github.com/Phil-Fan/truman): Camclaw deployed on NVIDIA DGX Spark using intel realsense D457 and audio module.
+- 🎤 [caw](https://github.com/Phil-Fan/caw): voice cloning using XIAOMI MiMo API.
 - ⚔️ Collections & Configurations
-  - [awesome-zju-tools](https://github.com/Phil-Fan/awesome-zju-tools): awesome list for ZJUers.
+  - [awesome-zju-tools](https://github.com/Phil-Fan/awesome-zju-tools)(🌟200): awesome list for ZJUers.
   - [dot-files](https://github.com/Phil-Fan/dot-files): my settings governed by chezmoi.
   - [Template](https://github.com/Phil-Fan/Template): Some templates I use, markdown,latex,beamer,powerpoint.
   
@@ -29,7 +31,7 @@ For information, you can visit my [homepage](https://philfan.cn) or [contact me]
 ## Contributed To
 
 - 💎 [Celechron](https://github.com/Celechron/Celechron): One of the most popular utility apps among ZJU students.
-- 😼 [AutoGLM-GUI](https://github.com/suyiiyii/AutoGLM-GUI): an modern GUI controller for mobile use agent AutoGLM.
+- 😼 [AutoGLM-GUI](https://github.com/suyiiyii/AutoGLM-GUI)(🌟1K): an modern GUI controller for mobile use agent AutoGLM.
 
 ## Github Activities
 
