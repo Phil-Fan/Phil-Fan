@@ -22,7 +22,7 @@ For information, you can visit my [homepage](https://philfan.cn) or [contact me]
 - 🔋 [ZJU-Charger](https://github.com/ZJU-Charger/ZJU-Charger): One click visualization website for electronic motorbikes charger in ZJU. Used by over 5K+ ZJUers.
 - 📃 [paperd](https://pypi.org/project/paperd/): CLI tool for downloading arXiv papers and preparing for research thinking, with Feishu Webhook notification.
 - 📷 [truman](https://github.com/Phil-Fan/truman): Camclaw deployed on NVIDIA DGX Spark using intel realsense D457 and audio module.
-- 🎤 [caw](https://github.com/Phil-Fan/caw): voice cloning using XIAOMI MiMo API.
+- 🎤 [caw](https://github.com/Phil-Fan/caw): CLI tool for cloning voice using XIAOMI MiMo API.
 - ⚔️ Collections & Configurations
   - [awesome-zju-tools](https://github.com/Phil-Fan/awesome-zju-tools)(🌟200): awesome list for ZJUers.
   - [dot-files](https://github.com/Phil-Fan/dot-files): my settings governed by chezmoi.
