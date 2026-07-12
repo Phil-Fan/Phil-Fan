@@ -8,9 +8,8 @@ For information, you can visit my [homepage](https://philfan.cn) or [contact me]
 
 ## Research & Learning
 
-- 🌐 Personal Blogs: Flowing the motto of "learn in public", I maintain 4 note websites to collect different parts of my life, check
+- 🌐 Personal Blogs: Flowing the motto of "learn in public", I maintain 3 note websites to collect different parts of my life, check
   - [learning experience](https://note.philfan.cn)
-  - [research notes](https://phd.philfan.cn)
   - [development notes](https://dev.philfan.cn)
   - [hobbies](https://hobby.philfan.cn)
 - 📄 [paper-reading](https://github.com/Phil-Fan/paper-reading): My workflow and harness for reading papers, taking notes and collecting research ideas.
