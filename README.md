@@ -12,14 +12,13 @@ For information, you can visit my [homepage](https://philfan.cn) or [contact me]
   - [learning experience](https://note.philfan.cn)
   - [development notes](https://dev.philfan.cn)
   - [hobbies](https://hobby.philfan.cn)
-- 📄 [paper-reading](https://github.com/Phil-Fan/paper-reading): My workflow and harness for reading papers, taking notes and collecting research ideas.
+- 📃 [Agentero](https://github.com/poco-ai/Agentero): Agent-friendly paper management.
 
 ## Currently building
 
 - 🪪 [Poco](https://github.com/poco-ai/poco-agent)(🌟1.3K): An intelligent agent harnessing cloud-based Claude Code to realize a Manus-like autonomous experience.
 - 🔥 [TokenArena](https://github.com/poco-ai/TokenArena): tracking token usage in one place, comparing in community. used by over **1K** developers.
 - 🔋 [ZJU-Charger](https://github.com/ZJU-Charger/ZJU-Charger): One click visualization website for electronic motorbikes charger in ZJU. Used by over 5K+ ZJUers.
-- 📃 [Agentero](https://github.com/poco-ai/Agentero): Agent-friendly paper management.
 - 📷 [truman](https://github.com/Phil-Fan/truman): Camclaw deployed on NVIDIA DGX Spark using intel realsense D457 and audio module.
 - 🎤 [caw](https://github.com/Phil-Fan/caw): CLI tool for cloning voice using XIAOMI MiMo API.
 - ⚔️ Collections & Configurations
