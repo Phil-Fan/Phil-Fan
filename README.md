@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm PhilFan, undergraduate@ZJU 2022, currently interested in LLM Safety & AI Infra.
+I'm PhilFan, undergraduate@ZJU 2022, currently interested in AI Efficiency.
 
 ![](https://komarev.com/ghpvc/?username=Phil-Fan&&style=flat-square)
 
