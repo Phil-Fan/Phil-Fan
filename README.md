@@ -14,7 +14,7 @@ For information, you can visit my [homepage](https://philfan.cn) or [contact me]
   - [hobbies](https://hobby.philfan.cn)
 - 📃 [Agentero](https://github.com/poco-ai/Agentero)(🌟220): Agent-friendly paper management. An alternative to Zotero.
 
-## Currently building
+## Projects
 
 - 🪪 [Poco](https://github.com/poco-ai/poco-agent)(🌟1.4K): An intelligent agent harnessing cloud-based Claude Code to realize a Manus-like autonomous experience.
 - 🔥 [TokenArena](https://github.com/poco-ai/TokenArena): tracking token usage in one place, comparing in community. used by over **1K** developers.
