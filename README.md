@@ -12,15 +12,15 @@ For information, you can visit my [homepage](https://philfan.cn) or [contact me]
   - [learning experience](https://note.philfan.cn)
   - [development notes](https://dev.philfan.cn)
   - [hobbies](https://hobby.philfan.cn)
-- 📃 [Agentero](https://github.com/poco-ai/Agentero)(🌟160): Agent-friendly paper management. An alternative to Zotero.
+- 📃 [Agentero](https://github.com/poco-ai/Agentero)(🌟220): Agent-friendly paper management. An alternative to Zotero.
 
 ## Currently building
 
-- 🪪 [Poco](https://github.com/poco-ai/poco-agent)(🌟1.3K): An intelligent agent harnessing cloud-based Claude Code to realize a Manus-like autonomous experience.
+- 🪪 [Poco](https://github.com/poco-ai/poco-agent)(🌟1.4K): An intelligent agent harnessing cloud-based Claude Code to realize a Manus-like autonomous experience.
 - 🔥 [TokenArena](https://github.com/poco-ai/TokenArena): tracking token usage in one place, comparing in community. used by over **1K** developers.
 - 🔋 [ZJU-Charger](https://github.com/ZJU-Charger/ZJU-Charger): One click visualization website for electronic motorbikes charger in ZJU. Used by over 5K+ ZJUers.
 - ⚔️ Collections & Configurations
-  - [awesome-zju-tools](https://github.com/Phil-Fan/awesome-zju-tools)(🌟200): awesome list for ZJUers.
+  - [awesome-zju-tools](https://github.com/Phil-Fan/awesome-zju-tools)(🌟220): awesome list for ZJUers.
   - [dot-files](https://github.com/Phil-Fan/dot-files): my settings governed by chezmoi.
   - [Template](https://github.com/Phil-Fan/Template): Some templates I use, markdown,latex,beamer,powerpoint.
 - 💪Skills
