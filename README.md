@@ -12,7 +12,7 @@ For information, you can visit my [homepage](https://philfan.cn) or [contact me]
   - [learning experience](https://note.philfan.cn)
   - [development notes](https://dev.philfan.cn)
   - [hobbies](https://hobby.philfan.cn)
-- 📃 [Agentero](https://github.com/poco-ai/Agentero)(🌟400): Agent-friendly paper management. An alternative to Zotero.
+- 📃 [Agentero](https://github.com/poco-ai/Agentero)(🌟500): Agent-friendly paper management. An alternative to Zotero.
 
 ## Projects
 
