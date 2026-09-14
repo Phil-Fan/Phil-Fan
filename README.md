@@ -27,7 +27,8 @@ For information, you can visit my [homepage](https://philfan.cn) or [contact me]
   - 📰 [xmindify](https://github.com/Phil-Fan/xmindify): A skill that can automatically generate mind maps in different scenarios with respect to .xmind syntax。
   - 🗓 [delphic-daily](https://github.com/Phil-Fan/delphic-daily): Know yourself! A daily planning system for chaotic minds in agentic era.
 -  Scripts
-  - 😶‍🌫️ [gh-slim](https://github.com/Phil-Fan/gh-slim): hide PR history on GitHub Feed page
+  - 😶‍🌫️ [gh-slim](https://github.com/Phil-Fan/gh-slim): hide PR history on GitHub Feed page.
+  - ✅ [grs-enhance](https://github.com/Phil-Fan/grs-enhance): course selection scripts for ZJU graduate students, with better user experience.
 
 ## Contributed To
 
