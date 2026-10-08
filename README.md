@@ -19,7 +19,7 @@ For information, you can visit my [homepage](https://philfan.cn) or [contact me]
 - 🪪 [Poco](https://github.com/poco-ai/poco-agent)(🌟1.4K): An intelligent agent harnessing cloud-based Claude Code to realize a Manus-like autonomous experience.
 - 🔥 [TokenArena](https://github.com/poco-ai/TokenArena): tracking token usage in one place, comparing in community. used by over **1K** developers.
 - 🔋 [ZJU-Charger](https://github.com/ZJU-Charger/ZJU-Charger): One click visualization website for electronic motorbikes charger in ZJU. Used by over 5K+ ZJUers.
-- 💰 [Clip 票夹](https://clip.philfan.cn): One-stop reimbursement assistant for ZJUers.
+- 💰 [Clip 票夹](https://clip.philfan.cn): All-in-one reimbursement assistant for ZJU students.
 - ⚔️ Collections & Configurations
   - [awesome-zju-tools](https://github.com/Phil-Fan/awesome-zju-tools)(🌟220): awesome list for ZJUers.
   - [dot-files](https://github.com/Phil-Fan/dot-files): my settings governed by chezmoi.
