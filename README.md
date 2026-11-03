@@ -30,6 +30,7 @@ For information, you can visit my [homepage](https://philfan.cn) or [contact me]
 - ⚙️ Scripts
   - 😶‍🌫️ [gh-slim](https://github.com/Phil-Fan/gh-slim): hide PR history on GitHub Feed page.
   - ✅ [grs-enhance](https://github.com/Phil-Fan/grs-enhance): course selection scripts for ZJU graduate students, with better user experience.
+  - 🍅 [Timo](https://github.com/Phil-Fan/Timo): MacOS time management for what really matters. Written by Swift.
 
 ## Contributed To
 
