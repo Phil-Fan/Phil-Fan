@@ -36,9 +36,3 @@ For information, you can visit my [homepage](https://philfan.cn) or [contact me]
 
 - 💎 [Celechron](https://github.com/Celechron/Celechron): One of the most popular utility apps among ZJU students.
 - 😼 [AutoGLM-GUI](https://github.com/suyiiyii/AutoGLM-GUI)(🌟1K): an modern GUI controller for mobile use agent AutoGLM.
-
-## Github Activities
-
-![overview](https://github.com/Phil-Fan/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only) ![language](https://github.com/Phil-Fan/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
-
-
